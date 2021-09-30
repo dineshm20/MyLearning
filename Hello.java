@@ -5,7 +5,7 @@ public class Hello {
     byte z = 1;
     byte y = (byte) x; // explicit cast
     int y1 = z; // implicit cast
-    String empname;
+    String empname; //test for github
     int empid = 1;
     int price = 100;
     static int instituecode = 1100;
